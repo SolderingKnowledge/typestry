@@ -1,0 +1,20 @@
+{
+  "name": "typestry",
+  "version": "1.0.0",
+  "description": "`npm init -y` initializing npm in this folder",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolderingKnowledge/typestry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolderingKnowledge/typestry/issues"
+  },
+  "homepage": "https://github.com/SolderingKnowledge/typestry#readme"
+}
